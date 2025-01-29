@@ -7,10 +7,11 @@ Currently navigating the exciting challenges of my software engineering program,
 
 ### 💼 Internships
 I've had the privilege of honing my skills through internships at:
+- 🏢 PSPC
 - 🎓 University of Ottawa
 - 📱 Nokia
 - 🌐 HOIST Global Tech Solutions
-- PSPC
+
 
 ### 💻 What Drives Me
 I'm fueled by a desire to innovate and make a difference. Whether it's coding, problem-solving, or embracing new technologies, I'm always up for the challenge.
